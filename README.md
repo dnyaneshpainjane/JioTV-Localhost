@@ -14,6 +14,7 @@ Don't Edit This Script
 - *HQ Streaming* <br>
 - *Web Play Supports*
 - *TiviMate or PC Users can Also Use This*<br>
+- *Will Works In 250, 400, 600, 800, 1200 in this Gives Qualities*
 
  <br>
 
