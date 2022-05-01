@@ -67,19 +67,3 @@ https://www.apachefriends.org/index.html
 <br><br>
 
 <h4>🚸 This is Just For Educational Purpose and Entertainment !</h4>
-<br>
-
-<h3>🤗 Meet Me : </h3>
-
-• 😪 Check you did all This Perfectly Before Messaging [ Warning ] <br>
-• For any Support About Script contact [@AvishkarPatil](https://telegram.me/AvishkarPatil)  at Telegram <br>
-• Or Contact at [proavipatil@gmail.com](mailto:proavipatil@gmail.com)
-
-<br>
-
-
----
-<h4 align='center'>© 2022 Aνιѕнкαя Pαтιℓ</h4>
-
-<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
-
