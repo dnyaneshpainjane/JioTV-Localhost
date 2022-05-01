@@ -43,7 +43,7 @@ Don't Edit This Script
 https://www.apachefriends.org/index.html
 
 ```
-• Download Given [ZIP](https://github.com/avipatilpro/JioTV/releases/download/2.0/JioTV.zip) and Extract in htdocs Folder<br>
+• Download Given [ZIP](https://github.com/dnyaneshpainjane/JioTV-Localhost/raw/main/JioTV.zip) and Extract in htdocs Folder<br>
 • Open localhost/login.php <br>
 • Put Jio Login Details and Submit <br>
 • Go Back To Home and Enjoy !
