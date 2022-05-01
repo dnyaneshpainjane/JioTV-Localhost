@@ -1,9 +1,6 @@
 <?php
 
 
-// DO NO EDIT ANYTHING TO WORK PORPELY 
-// © @AvishkarPatil | https://github.com/avipatilpro
-
 
 $auth = json_decode(file_get_contents('data/auth.json') , true);
 $ssoToken = $auth['ssoToken'];
