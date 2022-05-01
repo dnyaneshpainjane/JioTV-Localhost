@@ -1,7 +1,5 @@
 <html>
 
-<!-- DO NO EDIT ANYTHING TO WORK PORPELY -->
-<!-- © @AvishkarPatil  | https://github.com/avipatilpro -->
 
 <head>
 <title><?php $name = str_replace('_', ' ', $_REQUEST["c"]); echo $name; ?> | Avishkar</title>
