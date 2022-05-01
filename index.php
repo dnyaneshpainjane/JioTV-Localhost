@@ -1,7 +1,5 @@
 <html>
 
-<!-- DO NO EDIT ANYTHING TO WORK PORPELY -->
-<!-- © @AvishkarPatil | https://github.com/avipatilpro -->
 
 <head>
 	<meta charset="utf-8">
