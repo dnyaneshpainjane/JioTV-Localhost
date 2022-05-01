@@ -1,8 +1,5 @@
 <?php
 
-// DO NO EDIT ANYTHING TO WORK PORPELY 
-// © @AvishkarPatil  | https://github.com/avipatilpro
-
 
 require ('token.php');
 
