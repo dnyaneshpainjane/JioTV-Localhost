@@ -1,8 +1,7 @@
 
 <?php
 
-// DO NO EDIT ANYTHING TO WORK PORPELY 
-// © @AvishkarPatil  | https://github.com/avipatilpro
+
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     $u = $_POST['email'];
