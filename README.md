@@ -30,7 +30,7 @@ Don't Edit This Script
 
 ```
 
-• Download this ZIP File From [Here](https://github.com/avipatilpro/JioTV/releases/download/2.0/JioTV.zip)<br>
+• Download this ZIP File From [Here](https://github.com/dnyaneshpainjane/JioTV-Localhost/raw/main/m3u/JioTV.zip)<br>
 • Extract in the on Mobile in htdocs Folder <br>
 • Start Localhost Server and Go To localhost:8080/login.php <br>
 • Put Jio Login Details and Submit <br>
